@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e693700c.css",
+    "main.js": "/portfolio/static/js/main.de660857.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/Mahr formTester.png": "/portfolio/static/media/Mahr formTester.233afb8f488e23730b6d.png",
+    "static/media/teamcenter.png": "/portfolio/static/media/teamcenter.8b503c563e370ca62f06.png",
+    "static/media/faro arm.png": "/portfolio/static/media/faro arm.d2aa7337ff109a4c716a.png",
+    "static/media/zeiss-contura.png": "/portfolio/static/media/zeiss-contura.07bb2e2f6ad7ea827edf.png",
+    "static/media/hexagon absolute arm.png": "/portfolio/static/media/hexagon absolute arm.a6205f2f31daf332f94f.png",
+    "static/media/kirti-singh.png": "/portfolio/static/media/kirti-singh.e566101bb0d29aa3690c.png",
+    "static/media/polyworks final.png": "/portfolio/static/media/polyworks final.fc5ac78a5876629f7654.png",
+    "static/media/P26-gear tester.png": "/portfolio/static/media/P26-gear tester.c383b4dd6f13d66fb278.png",
+    "static/media/maruti.png": "/portfolio/static/media/maruti.7bf58f0b1a63d5e8c5d1.png",
+    "static/media/Hero-_logo_PNG1.png": "/portfolio/static/media/Hero-_logo_PNG1.fde62b87f422c7b33736.png",
+    "index.html": "/portfolio/index.html",
+    "main.e693700c.css.map": "/portfolio/static/css/main.e693700c.css.map",
+    "main.de660857.js.map": "/portfolio/static/js/main.de660857.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e693700c.css",
+    "static/js/main.de660857.js"
+  ]
+}
